@@ -11,7 +11,7 @@ const handleClick = () => {
 
 function Intro() {
   return (
-    <section className="w-full h-screen bg-black flex flex-col md:flex-row-reverse md:justify-between">
+    <section className="w-full h-screen bg-black flex flex-col md:flex-row-reverse md:justify-between mb-11">
       <div className="relative flex w-full h-[700px] md:h-screen md:w-fit md:max-w-[500px] lg:max-w-[800px] ">
         <img
           className="w-[80%] h-auto left-[10%] top-[30%] absolute 2xl:w-[100%] place-self-center xl:transform xl:-translate-x-60"
